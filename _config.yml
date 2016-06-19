@@ -8,7 +8,7 @@ disqus_shortname: aboutashu
 google_analytics: UA-72862926-1
 urls:
     - text: Home
-      url: "https://myteams.github.io"
+      url:https://myteams.github.io
       icon: fa-home
       layout: post
     - text: About
